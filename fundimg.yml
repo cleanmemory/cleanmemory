@@ -7,4 +7,4 @@ community_bridge: # Replace with a single Community Bridge project-name e.g., cl
 liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
-custom: ["https://cleanmemory.vn.ua/","https://cleanmemory.vn.ua/","https://cleanmemory.vn.ua/","https://cleanmemory.vn.ua/"]# Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+custom: ["https://cleanmemory.vn.ua/service-category/poshuk-miscya-pohovannya/","https://cleanmemory.vn.ua/cemeteries/","https://cleanmemory.vn.ua/services/vstanovlennia-pam-iatnykiv/","https://cleanmemory.vn.ua/ru/cemeteries/"]# Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
